@@ -5,7 +5,7 @@ The Unified Daughterboard Project is an attempt by leading designers in the mech
 
 The main characteristic of this daughterboard is to integrate a USB Type C connector and the needed circuitry for USB2.0 operation in a small PCB that can be screwed to a keyboard chassis; this significantly simplifies the assembly and design of the main circuit board.
 
-## C3 version
+## Features
 
 In its latest versions, the daughterboards of this project feature:
 
