@@ -1,5 +1,5 @@
 # The Unified Daughterboard Project
-![logo](https://github.com/Unified-Daughterboard/.github/raw/main/unified.jpg)
+![logo](https://github.com/Unified-Daughterboard/.github/raw/main/unified-padded.jpg)
 
 ## Introduction
 The Unified Daughterboard Project is an attempt by leading designers in the mechanical keyboard community to standardize the USB daughterboards used for their custom mechanical keyboard projects.  
